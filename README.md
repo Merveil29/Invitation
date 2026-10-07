@@ -1,9 +1,13 @@
 # Invitation
 
-Ce projet contient une invitation HTML simple.
+Invitation HTML pour un événement.
 
-## Contenu
-- `invitation.html` : Page d'invitation au format HTML.
+## À propos
 
-## Aperçu
-Ouvrir `invitation.html` dans un navigateur pour visualiser l'invitation.
+Ce dépôt contient une page d'invitation (`invitation.html`) à ouvrir dans un navigateur.
+
+## Utilisation
+
+1. Télécharger ou cloner le dépôt
+2. Ouvrir `invitation.html` dans votre navigateur web
+3. Partager le lien ou la page selon vos besoins
