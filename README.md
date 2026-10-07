@@ -17,7 +17,7 @@ Ouvrez `invitation.html` dans un éditeur de texte.
 Recherchez cette ligne (vers la ligne 1056) :
 
 ```js
-const WHATSAPP_NUMBER = '+229 01 60 22 78 74';
+const WHATSAPP_NUMBER = '+229 VOTRE_NUMERO_ICI';
 ```
 
 Remplacez-la par votre propre numéro au format international (sans espaces inutiles, avec l'indicatif +229) :
